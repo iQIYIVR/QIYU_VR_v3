@@ -8,7 +8,7 @@ QIYU-3 is an all-in-one 6-DOF VR headset produced by IQIYI, this document introd
 ## Device Specification
 
 * SoC: Qualcomm XR2
-* Display: 2160 x 2160 pixels in single eye, 72 FPS
+* Display: 2160 x 2160 pixels in single eye
 * WiFi: supported 2.4G, 5G, 6
 * Bluetooth: 5.1
 * Mic: Voice input
