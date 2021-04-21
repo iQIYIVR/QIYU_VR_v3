@@ -20,4 +20,3 @@ QIYU-3 is an all-in-one 6-DOF VR headset produced by IQIYI, this document introd
 * Battery: 5500mAh
 * Interface: USB Type-C and 3.5mm Headset Jack.
 * Tracking: Inside-Out, 6 DOF of Head and Hands.
-* FOV: 95°
